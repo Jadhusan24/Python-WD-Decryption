@@ -2,13 +2,13 @@
 The Western Digital Decryption tools for LINUX
 
 ## The Files : 
-* [wd-decrypt.py]() : generate's the .BIN file ( 40bytes ) contains the decryption password 
-* [adapter.sh]() : Automation script for the drive encryption
+* [Decryption Script](wd-decrypt.py) : The code creates a .BIN file that consists of a 40-byte decryption password. 
+* [Drive](adapter.sh) : A script designed to automate the process of drive encryption.
 
 <br>
 <br>
 
-## The commands : 
+## Configuration : 
 
 <br>
 
